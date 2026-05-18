@@ -54,4 +54,6 @@ The clustered geospatial view enabled:
 •	and more informed operational planning and resource-allocation decisions across the FCT. 
 The project also established a foundation for future enhancements involving heatmaps, territory analysis, route optimization, and advanced logistics intelligence workflows.
 
-Screenshots/cluster_visuals.png
+## Delivery Cluster Visualization
+
+![Delivery Cluster Visualization](Screenshots/cluster_visuals.png)
