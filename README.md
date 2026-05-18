@@ -19,10 +19,6 @@ The objective of this project was to develop an interactive geospatial visualiza
 •	supporting exploratory analysis of operational concentration, 
 •	and providing insight into areas with strong package pickup activity that could support future operational and revenue-growth decisions.
 ________________________________________
-
-
-
-________________________________________
 Tools & Technologies
 •	Python  
 •	Folium 
